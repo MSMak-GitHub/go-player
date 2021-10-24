@@ -1,1 +1,1 @@
-# Go Player!
+# GoPlayer!
